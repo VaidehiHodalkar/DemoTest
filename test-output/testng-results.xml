@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T10:51:54 IST" name="Default suite" finished-at="2024-05-02T10:54:09 IST" duration-ms="135151">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T10:51:54 IST" name="Default test" finished-at="2024-05-02T10:54:09 IST" duration-ms="135151">
+      <class name="appium.appium">
+        <test-method is-config="true" signature="config()[pri:0, instance:appium.appium@5c6648b0]" started-at="2024-05-02T10:51:54 IST" name="config" finished-at="2024-05-02T10:52:50 IST" duration-ms="56235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="config()[pri:0, instance:appium.appium@5c6648b0]" started-at="2024-05-02T10:52:50 IST" name="config" finished-at="2024-05-02T10:54:09 IST" duration-ms="78577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="demo()[pri:0, instance:appium.appium@5c6648b0]" started-at="2024-05-02T10:54:09 IST" name="demo" finished-at="2024-05-02T10:54:09 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:appium.appium@5c6648b0]" started-at="2024-05-02T10:54:09 IST" name="demo1" finished-at="2024-05-02T10:54:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method signature="demo13()[pri:0, instance:appium.appium@5c6648b0]" started-at="2024-05-02T10:54:09 IST" name="demo13" finished-at="2024-05-02T10:54:09 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+      </class> <!-- appium.appium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

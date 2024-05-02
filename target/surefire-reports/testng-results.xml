@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-30T21:28:13 IST" name="Department" finished-at="2024-04-30T21:28:13 IST" duration-ms="129">
+    <groups>
+    </groups>
+    <test started-at="2024-04-30T21:28:13 IST" name="QA" finished-at="2024-04-30T21:28:13 IST" duration-ms="129">
+      <class name="appium.day3">
+        <test-method signature="demo()[pri:0, instance:appium.day3@402bba4f]" started-at="2024-04-30T21:28:13 IST" name="demo" finished-at="2024-04-30T21:28:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:appium.day3@402bba4f]" started-at="2024-04-30T21:28:13 IST" name="demo1" finished-at="2024-04-30T21:28:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method signature="demo13()[pri:0, instance:appium.day3@402bba4f]" started-at="2024-04-30T21:28:13 IST" name="demo13" finished-at="2024-04-30T21:28:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+      </class> <!-- appium.day3 -->
+      <class name="appium.day2">
+        <test-method signature="demo()[pri:0, instance:appium.day2@6973b51b]" started-at="2024-04-30T21:28:13 IST" name="demo" finished-at="2024-04-30T21:28:13 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:appium.day2@6973b51b]" started-at="2024-04-30T21:28:13 IST" name="demo1" finished-at="2024-04-30T21:28:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- appium.day2 -->
+      <class name="appium.day4Test">
+        <test-method signature="demo()[pri:0, instance:appium.day4Test@795cd85e]" started-at="2024-04-30T21:28:13 IST" name="demo" finished-at="2024-04-30T21:28:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:appium.day4Test@795cd85e]" started-at="2024-04-30T21:28:13 IST" name="demo1" finished-at="2024-04-30T21:28:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method signature="demo13()[pri:0, instance:appium.day4Test@795cd85e]" started-at="2024-04-30T21:28:13 IST" name="demo13" finished-at="2024-04-30T21:28:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo13 -->
+      </class> <!-- appium.day4Test -->
+      <class name="appium.test">
+        <test-method signature="demo()[pri:0, instance:appium.test@59fd97a8]" started-at="2024-04-30T21:28:13 IST" name="demo" finished-at="2024-04-30T21:28:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:appium.test@59fd97a8]" started-at="2024-04-30T21:28:13 IST" name="demo1" finished-at="2024-04-30T21:28:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- appium.test -->
+    </test> <!-- QA -->
+  </suite> <!-- Department -->
+</testng-results>
